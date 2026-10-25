@@ -1,0 +1,6 @@
+{
+  "name": "Emperor Growth Systems - Turn Inquiries Into Booked Jobs",
+  "description": "Practical systems for home-service businesses to capture leads, automate follow-ups, organize bookings, and turn more inquiries into revenue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
